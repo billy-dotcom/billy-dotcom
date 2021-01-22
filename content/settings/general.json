@@ -1,8 +1,8 @@
 {
-  "WEBSITE_NAME": "4N Powerful Blog Template",
+  "WEBSITE_NAME": "Billy DotCom",
   "JUMBOTRON": "/img/jumbotron.jpg",
-  "LOGO": "/img/logo.png",
-  "AUTHOR_NAME": "Tùng Cao",
-  "AUTHOR_AVATAR": "/img/263a.png",
-  "DESCRIPTION": "My awesome blog"
+  "LOGO": "/img/billydotcom.jpg",
+  "AUTHOR_NAME": "Billy DotCom",
+  "AUTHOR_AVATAR": "/img/billydotcom.jpg",
+  "DESCRIPTION": "Billy DotCom"
 }
